@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Class-Path: lib/mysql-connector-java-5.1.6.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.mypackage.MyClass
+
